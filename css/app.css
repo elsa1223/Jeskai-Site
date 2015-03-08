@@ -1,4 +1,34 @@
 img {
 	padding: 2rem;
 }
+/* top bar background color */
+.top-bar {
+	background: #435564;
+}
+.top-bar .active {
+	background: #435564;
+}
 
+.toggle-topbar {
+	background: #435564;
+}
+
+.toggle-topbar .title-area {
+	background: #435564;
+}
+
+.toggle-topbar li a {
+	background-color: #435564;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+	background: #435564; 
+}
+/* top bar active and hovor colors */
+.top-bar-section li.active:not(.has-form) a:not(.button) {
+	background: #627D93; 
+}
+
+.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+	background: #627D93;
+}
