@@ -1,5 +1,5 @@
 img {
-	padding: 2rem;
+	border: 0.3rem solid #435564;
 }
 /* top bar background color */
 .top-bar {
@@ -32,3 +32,4 @@ img {
 .top-bar-section li.active:not(.has-form) a:not(.button):hover {
 	background: #627D93;
 }
+
