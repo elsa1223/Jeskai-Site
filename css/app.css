@@ -33,6 +33,8 @@ img {
 	background: #627D93;
 }
 
-.transition-img {
-	opacity: .2;
+.accordion li > div {
+    display: none;
+    overflow: hidden;
+    transition: height 0.3s ease-in-out 0s;
 }
