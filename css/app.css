@@ -33,3 +33,6 @@ img {
 	background: #627D93;
 }
 
+.transition-img {
+	opacity: .2;
+}
